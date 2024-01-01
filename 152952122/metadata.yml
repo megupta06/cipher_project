@@ -1,0 +1,12 @@
+---
+:id: 152952122
+:submitters:
+- :name: Mehak Gupta
+  :email: megupta@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-07 07:02:22.135073000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-06 23:02:22.135073000 Z
+:status: processed
+:score: 50.0
